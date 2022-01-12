@@ -6,4 +6,4 @@
 
 #
 
-# Lembre-se de alterar """ "TOKEN_API = "TOKEN DO BOT AQUI" """
+# Lembre-se de alterar ' TOKEN_API = "TOKEN DO BOT AQUI" ' para seu o seu token.
