@@ -2,7 +2,7 @@
 #
 #
 #
-# BOT em pyhton para telegram que tira print de sua tela e lhe envia.
+# BOT em pyhton que tira print da sua tela e envia
 #
 #
 #
